@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine|Roboto');
+
+body{
+    font-family: 'Curiew new';
+    background-color:whitesmoke; 
+    /* background-image: url("../img/fondo.png"); */
+    text-align: justify;
+    /* color: white; */
+}
+
+h3{
+    
+    padding-top: 10px;
+    font-family: 'Curiew new', serif;
+    color: #000;
+    font-size: 50px;
+    
+}
+.curso_columna img{
+    width: 100%;
+    padding: 150;
+}
+
+.curso_columna{
+    margin-bottom: 25px;
+}
+
+nav {
+    background-color: rgb(90, 133, 95) ;
+}
+
+.info_curso{
+    background-color: rgba(0,0,0,0.3);
+    position: absolute;
+    top: 0;
+    color: #FFF;
+    width: 50%;
+    height: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#secAreas{
+    margin-bottom: 20px;
+}
+
+
+nav {
+    background-color: rgb(230, 214, 196) ;
+}
+
+
+
